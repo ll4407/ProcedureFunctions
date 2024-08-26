@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{59D99F33-08DC-4260-897E-4E5C0F4AD5E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProcedureFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProcedureFunction/getAllProcedures.cs">
+    <Files>
+      <File FileName="ProcedureFunction/getProcedureById.cs" Line="32" Column="204" />
+      <File FileName="ProcedureFunction/getAllProcedures.cs" Line="34" Column="204" />
+      <File FileName="ProcedureFunction/addProcedure.cs" Line="48" Column="18" />
+      <File FileName="ProcedureFunction/ProcedureFunction.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="ProcedureFunction">
+            <Node name="ProcedureFunction" expanded="True">
+              <Node name="getAllProcedures.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ProcedureFunction FirstBuild="True" />
 </Properties>

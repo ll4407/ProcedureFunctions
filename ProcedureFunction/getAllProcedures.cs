@@ -31,7 +31,7 @@ namespace ProcedureFunction
 
             // Create a reference to the CosmosDB instance in our code
             using CosmosClient client = new(
-                connectionString: "ENTER CONNECTION STRING HERE"
+                connectionString: "AccountEndpoint=https://jlm-dekron-dental.documents.azure.com:443/;AccountKey=RlhLmrxt0Bd8bd32GGuZIbh1ycG4kmAyHKWAWMFpPkd0RfI3v5mMagV35Las5kBjQjpvCJmUtVuhACDbdtGzdw==;"
             );
 
             var response = req.CreateResponse(HttpStatusCode.OK);
